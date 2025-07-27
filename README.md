@@ -1,6 +1,6 @@
 # Local Venv (my note)
-python3 -m venv myenv
-source myenv/bin/activate
+- python3 -m venv myenv
+- source myenv/bin/activate
 # minbpe
 
 Minimal, clean code for the (byte-level) Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization. The BPE algorithm is "byte-level" because it runs on UTF-8 encoded strings.
